@@ -5,7 +5,7 @@ authors = ["jakeburden <jake@burden.blog>"]
 edition = "2018"
 repository = "https://gitlab.com/jakeburden/hash-index"
 license = "MIT"
-description = "Predictable hash indexing with possible maximum value"
+description = "Predictable hash indexing with a possible maximum value. Rust adaptation of watson/hash-index using Blake3"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
