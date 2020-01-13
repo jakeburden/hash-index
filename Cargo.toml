@@ -4,6 +4,8 @@ version = "0.1.0"
 authors = ["jakeburden <jake@burden.blog>"]
 edition = "2018"
 repository = "https://gitlab.com/jakeburden/hash-index"
+license = "MIT"
+description = "Predictable hash indexing with possible maximum value"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

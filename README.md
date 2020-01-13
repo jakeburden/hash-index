@@ -1,6 +1,6 @@
 # hash-index
 
-Predictable hash indexing with possible maximum value. Rust adaptation of
+Predictable hash indexing with a possible maximum value. Rust adaptation of
 [watson/hash-index](https://github.com/watson/hash-index) using [Blake3](https://github.com/BLAKE3-team/BLAKE3)
 
 ## Usage
